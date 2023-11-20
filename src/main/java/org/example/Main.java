@@ -13,5 +13,6 @@ public class Main
 	System.out.println("Початок роботи:");
 	System.out.println("Bashlykov Mykyta");
 	System.out.println("Chertishcheva Kseniia");
+	System.out.println("Yevdokymov Oleksandr");
     }
 }
