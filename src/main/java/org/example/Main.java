@@ -11,5 +11,6 @@ public class Main
 	System.out.println("Другий комміт в гілку main!");
 	System.out.println("Треітй комміт в гілку main!");
 	System.out.println("Початок роботи:");
+	System.out.println("Bashlykov Mykyta");
     }
 }
