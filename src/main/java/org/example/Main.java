@@ -6,5 +6,6 @@ public class Main
     {
 	System.out.println("Перший комміт!");
 	System.out.println("Перший комміт в гілку develop!");
+	System.out.println("Другий комміт в гілку develop!");
     }
 }
